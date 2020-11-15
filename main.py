@@ -11,11 +11,15 @@ owner = open('system/owner.txt', 'r').read().split('\n')
 admincommands = open('system/adminCommands.txt', 'r').read().split('\n')
 ownercommands = open('system/ownerCommands.txt', 'r').read().split('\n')
 alb = open('system/audit_log_base.html', 'r').read()
-token = open('system/token.txt', 'r').read()
+try:
+	token = open('system/token.txt', 'r').read()
+except:
+	token = ''
 selectedserver = [0, 0]
 
 if token == '' or token == 'Token here':
     print('No token given')
+    print('Read README.md')
     while True:
         pass
 
