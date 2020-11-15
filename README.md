@@ -1,1 +1,1 @@
-Please create a token.txt file in the system directory
+Please create a token.txt file in the system directory to be able to use the bot
