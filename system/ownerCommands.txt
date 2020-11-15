@@ -1,0 +1,4 @@
+$logoutbot
+$owdo
+$ownercommand
+$here

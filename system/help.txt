@@ -1,0 +1,27 @@
+```
+Help
+----------------------------
+$help >>> Show this list
+
+$logoutbot >>> Turn off Antosser-Bot [OWNER]
+
+$say [message] >>> Say a message [ADMIN]
+
+$repeat [amount] [message] >>> Repeat saying a message a amount of time [ADMIN]
+
+$cl [messages] >>> Delete last message in channel
+
+$ca >>> Delete all messanges in channel
+
+$owner >>> See who the owner is
+
+$admin >>> Check if you have administrator permissions
+
+$userattributes >>> See every parameter a user has
+
+$user [ID] [parameter (get with $userattr...)] >>> see user parameter
+
+$testbot >>> See if bot is activated
+
+$audit >>> get audit logs
+```
