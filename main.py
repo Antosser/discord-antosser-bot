@@ -15,7 +15,9 @@ token = open('system/token.txt', 'r').read()
 selectedserver = [0, 0]
 
 if token == '' or token == 'Token here':
-    sys.exit('No token given')
+    print('No token given')
+    while True:
+        pass
 
 
 async def save_audit_logs(guild):
@@ -197,4 +199,6 @@ def hasadmin(message):
 try:
     client.run(token)
 except:
-    sys.exit('Incorrect token or connection error')
+    print('Incorrect token or connection error')
+    while True:
+        pass
