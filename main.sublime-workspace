@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spam",
+				"spamfib"
+			],
+			[
+				"fi",
+				"fillText"
+			],
+			[
+				"fill",
+				"fillRect"
+			],
+			[
+				"p",
+				"press"
+			],
+			[
+				"re",
+				"result_str"
+			],
+			[
+				"ran",
+				"ransting"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"asy",
+				"asyncio"
+			],
+			[
+				"as",
+				"asyncio"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"heig",
+				"height\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"sele",
+				"selectedUsers"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"users",
+				"usersList"
+			],
+			[
+				"onk",
+				"onkeypress\tAttr"
+			],
+			[
+				"add",
+				"addUserToTable"
+			],
+			[
+				"u",
+				"unsorObj"
+			],
+			[
+				"lo",
+				"toLowerCase"
+			],
+			[
+				"use",
+				"usersList"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"set",
+				"setLXY"
+			],
+			[
+				"las",
+				"lastRect"
+			],
+			[
+				"arg",
+				"argError"
+			],
+			[
+				"a",
+				"argError"
+			],
+			[
+				"args",
+				"argsGiven"
+			],
+			[
+				"refre",
+				"refreshSize"
+			],
+			[
+				"ref",
+				"refreshSize"
+			],
+			[
+				"app",
+				"appendToArray"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"has",
+				"hasFound"
+			],
+			[
+				"peo",
+				"peopleStr"
+			],
+			[
+				"per",
+				"peopleStr"
+			],
+			[
+				"pe",
+				"peopleArr"
+			],
+			[
+				"sel",
+				"selecedtUsers"
+			],
+			[
+				"hea",
+				"header-bg-hover"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"op",
+				"optional"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ge",
+				"gettingWrong"
+			],
+			[
+				"header",
+				"header-bg"
+			],
+			[
+				"head",
+				"headerEl"
+			],
+			[
+				"sett",
+				"settings-bg"
+			],
+			[
+				"block",
+				"inline-block\tdisplay"
+			],
+			[
+				"tes",
+				"text-align-last\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"header-bg",
+				"header-bg-hover"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"pa",
+				"passwordI"
+			],
+			[
+				"pass",
+				"applyPass"
+			],
+			[
+				"settings",
+				"settings-opacity"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 264.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anton/Desktop/pi.py",
+		"/C/Users/Anton/AppData/Local/Programs/Python/Python39/Lib/site-packages/pyperclip/__main__.py",
+		"/C/Users/Anton/AppData/Local/Programs/Python/Python39/Lib/site-packages/pyperclip/__init__.py",
+		"/C/Users/Anton/Desktop/Calculate-Pi-master/calculatepi.py",
+		"/C/_Programs/python/spam/main.py",
+		"/C/Users/Anton/Desktop/New Text Document.txt",
+		"/C/Users/Anton/Desktop/simplegame.html",
+		"/C/Users/Anton/Desktop/simplegamemin.html",
+		"/C/Users/Anton/Desktop/hammer-master/hammer.py",
+		"/C/Users/Anton/Desktop/hammer-master/headers.txt",
+		"/C/Users/Anton/Desktop/temp.txt",
+		"/C/Users/Anton/Desktop/baritone_set.txt",
+		"/C/Users/Anton/Desktop/temp.py",
+		"/C/_Programs/python/discord-antosser-bot/main.py",
+		"/C/Users/Anton/Desktop/pipreq.bat",
+		"/C/Users/Anton/Downloads/Kann man im Vakuum Nudeln kochen_.txt",
+		"/C/_Programs/python/discord-antosser-bot/requirements.txt",
+		"/C/_Programs/python/discord-antosser-bot/discord/abc.py",
+		"/C/Users/Anton/Desktop/%1",
+		"/C/Users/Anton/Desktop/pigar-master/LICENSE",
+		"/C/Users/Anton/Documents/GitHub/desktop-tutorial/README.md",
+		"/C/_Programs/python/discord-antosser-bot/system/token.txt",
+		"/C/Users/Anton/Desktop/pipreq.txt",
+		"/C/Users/Anton/Desktop/sherlock-master/sherlock/sites.py",
+		"/C/Users/Anton/Desktop/sherlock-master/sherlock/sherlock.py",
+		"/C/_Programs/python/discord_/system/token.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zE8F532FEE/.data",
+		"/C/Users/Anton/AppData/Local/Temp/7zE8F506FCE/.rdata",
+		"/C/Users/Anton/AppData/Local/Temp/7zE8F5BCDAE/.reloc",
+		"/C/Users/Anton/Desktop/del.bat",
+		"/C/Users/Anton/Desktop/text.txt",
+		"/C/Users/Anton/Desktop/.rsrc/0/string.txt",
+		"/C/Users/Anton/Desktop/loop.py",
+		"/C/Users/Anton/AppData/Local/Temp/7zOC9F208FA/version.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zO480DC718/version.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zO4802FE78/string.txt",
+		"/C/Users/Anton/Desktop/dist/fib.txt",
+		"/C/Users/Anton/Desktop/file2.txt",
+		"/C/Users/Anton/Desktop/file.txt",
+		"/C/Users/Anton/Desktop/fib.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zO0AE58A66/fib.txt",
+		"/C/Users/Anton/Desktop/reprinter.py",
+		"/C/_Programs/python/discord/system/token.txt",
+		"/C/Users/Anton/Downloads/message (1).txt",
+		"/C/_Programs/python/discord/main.py",
+		"/C/Users/Anton/Desktop/Space Shooter Tutorial/main.py",
+		"/C/Users/Anton/Downloads/(1) The Hunger Games.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zOC2F650E5/owner.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zOC2F1ADC5/ownerCommands.txt",
+		"/C/_Programs/python/ptbot/pos.txt",
+		"/C/_Programs/waBot.js",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/options.txt",
+		"/C/_Programs/python/ptbot/main.py",
+		"/C/_Programs/python/reverse_string/main.py",
+		"/C/_Programs/python/AMT/main.py",
+		"/C/_Programs/python/AMT/requirements.txt",
+		"/D/Minecraft Local Server/eula.txt",
+		"/C/_Programs/python/discord/requirements.txt",
+		"/C/_Programs/python/moduletest/requirements.txt",
+		"/C/Users/Anton/Desktop/python/main.py",
+		"/C/Users/Anton/Desktop/python/sth.py",
+		"/C/Users/Anton/Desktop/python/fib.py",
+		"/C/Users/Anton/Desktop/python/agr_test.py",
+		"/C/_Programs/python/_Projects/game/myfile.txt",
+		"/C/_Programs/python/_Projects/game/main.py",
+		"/C/Users/Anton/Desktop/D-Fragen.txt",
+		"/C/Users/Anton/Downloads/message.txt",
+		"/C/Users/Anton/Downloads/10-million-password-list-top-1000000.txt",
+		"/C/Users/Anton/Desktop/sherlock-master/requirements.txt",
+		"/C/Users/Anton/Desktop/Fez.url",
+		"/C/Users/Anton/Desktop/python/fib.exe",
+		"/C/Users/Anton/Desktop/test.py",
+		"/C/_Programs/python/discord/build/main/warn-main.txt",
+		"/C/Users/Anton/Desktop/build/hello/warn-hello.txt",
+		"/C/Users/Anton/Desktop/hello.py",
+		"/C/Users/Anton/AppData/Local/Google/Chrome/User Data/ZxcvbnData/1/male_names.txt",
+		"/C/Users/Anton/AppData/Local/Google/Chrome/User Data/ZxcvbnData/1/surnames.txt",
+		"/C/Users/Anton/AppData/Local/Google/Chrome/User Data/ZxcvbnData/1/passwords.txt",
+		"/C/_Games/Steam/steamapps/common/Portal/thirdpartylegalnotices.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_portal1-mappack.zip/readme.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_aerial_faith_plate_84655.zip/readme.txt",
+		"/C/_Games/Steam/steamapps/common/Portal/portal/gamestate.txt",
+		"/C/_Games/Steam/steamapps/common/Portal/portal/media/startupvids.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_affinity.zip/readme.txt",
+		"/C/ProgramData/BlueStacks/BTV/OBS/crashDumps/OBSCrashLog2020-10-26_1.txt",
+		"/C/_Games/Steam/steamapps/common/Portal/steam_appid.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_madness_of_rocket_turrets.zip/README.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_the_noob_chamber.zip/The_Noob_Chamber/ReadMe.txt",
+		"/C/Users/Anton/Desktop/sherlock-master/sherlock/motorhom.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zO0C4B7DA1/My_Passwords.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_New Text Document.zip/New Text Document.txt",
+		"/C/Users/Anton/Desktop/sherlock-master/sherlock/A4.txt",
+		"/C/Users/Anton/Desktop/sherlock-master/sherlock/hacker.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zO8E4D236D/My_Passwords.txt",
+		"/C/Users/Anton/AppData/Local/Temp/7zO08D4AD4E/My_Passwords.txt",
+		"/C/Users/Anton/Desktop/luna.py",
+		"/C/Users/Anton/AppData/Local/Temp/7zO08DC776E/My_Passwords.txt",
+		"/C/Users/Anton/Desktop/auto-py-to-exe-master/requirements.txt",
+		"/C/Path/New Text Document.txt",
+		"/C/Users/Anton/Desktop/t.txt",
+		"/C/Windows/System32/en-US/winlogon.exe.mui.txt",
+		"/C/Program Files (x86)/Resource Hacker/ReadMe.txt",
+		"/C/Users/Anton/Desktop/EmptyFile.txt",
+		"/C/Users/Anton/Desktop/My_Passwords.txt",
+		"/C/Users/Anton/Desktop/sherlock-master/sherlock/alexeyaparin.txt",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/crash-reports/crash-2020-10-19_15.45.26-client.txt",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/saves/REDSTONE 2/datapacks/Fakeblock/data/fb/functions/__create.py",
+		"/C/Users/Anton/.Wurst encryption/wurst_rsa_public.txt",
+		"/C/Users/Anton/.Wurst encryption/wurst_rsa_private.txt",
+		"/C/Users/Anton/Downloads/Photos.zip",
+		"/C/Users/Anton/Pictures/Screenshots/Screenshot (12).png",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/saves/REDSTONE 2/datapacks/Fakeblock/data/fakeblock/functions/__create.py",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/saves/REDSTONE 2/datapacks/Fakeblock/data/fakeblock/functions/blocks/blocks.txt",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/saves/REDSTONE 2/datapacks/Fakeblock/data/fakeblock/functions/blocks/__create.py",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/saves/REDSTONE 2/datapacks/Fakeblock/data/fakeblock/functions/blocks/blocks.html",
+		"/D/Minecraft Local Server/crash-reports/crash-2020-10-06_21.04.00-server.txt",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/crash-reports/crash-2020-09-24_18.23.41-client.txt",
+		"/C/Users/Anton/AppData/Local/Temp/Temp1_archmap_02.zip/How-To_Install-Maps.txt",
+		"/C/Users/Anton/Desktop/My Wishing List.txt",
+		"/C/Users/Anton/Desktop/gradient.html",
+		"/C/_Programs/password_generator.html",
+		"/C/Users/Anton/Desktop/test.html",
+		"/C/Users/Anton/Downloads/audit_logs_freeze2008 (1).txt",
+		"/C/Users/Anton/Downloads/audit_logs_freeze2008 (2).txt",
+		"/C/Users/Anton/Desktop/eula.txt",
+		"/C/Users/Anton/Downloads/audit_logs_freeze2008.txt",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/baritone/readme.txt",
+		"/C/Users/Anton/AppData/Roaming/.minecraft/baritone/settings.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\_Programs\\test2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
