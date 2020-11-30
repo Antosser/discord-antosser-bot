@@ -3,6 +3,7 @@ import discord
 from discord import Client
 import asyncio
 from itertools import cycle
+from datetime import datetime, date
 
 client: Client = discord.Client()
 emoji = '\N{THUMBS UP SIGN}'
@@ -38,7 +39,7 @@ async def save_audit_logs(guild):
 async def on_ready():
     await client.change_presence(activity=discord.Game(name='$help'))
     client.user.verified = True
-    print(f"Connected as {client.user}")
+    print(time() + f"Connected as {client.user}")
 
 
 @client.event
@@ -51,7 +52,7 @@ async def on_message(message):
     send = channel.send
 
     if arg.startswith('$'):
-        print(f'Message: {str(author)}, {message.guild.name}, {channel}, {con}')
+        print(time() + f'Message: {str(author)}, {message.guild.name}, {channel}, {con}')
 
     if arg in admincommands and not hasadmin(message):
         if not str(author) in owner:
@@ -199,6 +200,11 @@ def hasadmin(message):
         if message.author.roles[roleIndex].permissions.administrator:
             admin = True
     return admin
+
+
+def time():
+    return str(datetime.now()) + '   '
+
 
 try:
     client.run(token)
