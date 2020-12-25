@@ -5,6 +5,7 @@ import asyncio
 from itertools import cycle
 from datetime import datetime, date
 
+
 client: Client = discord.Client()
 emoji = '\N{THUMBS UP SIGN}'
 helpfile = open('system/help.txt', 'r').read()
@@ -12,6 +13,11 @@ owner = open('system/owner.txt', 'r').read().split('\n')
 admincommands = open('system/adminCommands.txt', 'r').read().split('\n')
 ownercommands = open('system/ownerCommands.txt', 'r').read().split('\n')
 alb = open('system/audit_log_base.html', 'r').read()
+selectedserver = 0
+selectedserver2 = 0
+annoy = False
+
+
 try:
 	token = open('system/token.txt', 'r').read()
 except:
@@ -50,6 +56,11 @@ async def on_message(message):
     args = con.split(' ')
     arg = args[0].lower()
     send = channel.send
+    global selectedserver
+    global selectedserver2
+    global annoy
+
+    #await message.add_reaction('<:turret:787923805917675530>')
 
     if arg.startswith('$'):
         print(time() + f'Message: {str(author)}, {message.guild.name}, {channel}, {con}')
@@ -65,6 +76,29 @@ async def on_message(message):
 
     if con.startswith('$') and str(author) in open('system/mute.txt', 'r').read().split('\n'):
         await send('You\'re bot-muted')
+        return
+
+    if channel.id == selectedserver2 and str(author) != 'Antosser-Bot#4884' and arg.startswith('$owdo'):
+        channel2 = channel
+        channel = client.get_channel(selectedserver)
+        send = channel.send
+        try:
+            if args[1] == 'a':
+                await eval(' '.join(args[2:]))
+            else:
+                eval(' '.join(args[1:]))
+        except Exception as ex:
+            await channel2.send(ex)
+        return
+
+    if annoy and str(author) != 'Antosser-Bot#4884':
+        await send(con)
+
+    if channel.id == selectedserver and str(author) != 'Antosser-Bot#4884':
+        await client.get_channel(selectedserver2).send(str(author) + ':\n' + con + '\n-')
+
+    if channel.id == selectedserver2 and str(author) != 'Antosser-Bot#4884':
+        await client.get_channel(selectedserver).send(con)
         return
 
     if arg == '$userattributes':
@@ -173,8 +207,9 @@ async def on_message(message):
         await message.add_reaction(emoji)
 
     if arg == '$here':
-        selectedserver = [message.guild.id, channel.id, message.guild, channel]
-        print(selectedserver)
+        selectedserver = channel.id
+        print('ss1 ' + str(selectedserver))
+        await message.delete()
 
     if arg == '$serverid':
         await send(message.guild)
@@ -182,6 +217,24 @@ async def on_message(message):
     if arg == '$ownercommand':
         pass
 
+    if arg == '$ss' and len(args) > 1:
+        await client.get_channel(selectedserver).send(' '.join(args[1:]))
+
+    if arg == '$here2':
+        selectedserver2 = channel.id
+        print('ss2 ' + str(selectedserver2))
+
+    if arg == '$annoy':
+        if annoy:
+            annoy = False
+        else:
+            annoy = True
+
+    if arg == '?c100':
+        await send('https://cdn.discordapp.com/attachments/773199816564932628/791430300823584768/9k.png')
+
+    if arg == '?mem':
+        await send('https://cdn.discordapp.com/attachments/773167713568030761/791217190228852756/1NPWT5vcLqA2.jpg')
 
 '''async def inputmethod():
     while True:

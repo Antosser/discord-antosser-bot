@@ -2,3 +2,6 @@ $logoutbot
 $owdo
 $ownercommand
 $here
+$here2
+$say
+$repeat
